@@ -1,0 +1,92 @@
+{
+  "computers": [
+    {
+      "id": 1,
+      "brand": "HP",
+      "model": "HP ENVY",
+      "price": 150.5,
+      "CPU_type": "Intel",
+      "image": "https://source.unsplash.com/random/200x200/?computer"
+    },
+    {
+      "id": 2,
+      "brand": "Dell",
+      "model": "Dell XPS",
+      "price": 120,
+      "CPU_type": "AMD",
+      "image": "https://source.unsplash.com/random/200x200/?computer"
+    },
+    {
+      "id": 3,
+      "brand": "Lenovo",
+      "model": "Lenovo ThinkPad",
+      "price": 180.75,
+      "CPU_type": "Intel",
+      "image": "https://source.unsplash.com/random/200x200/?computer"
+    },
+    {
+      "id": 4,
+      "brand": "Apple",
+      "model": "MacBook Pro",
+      "price": 200,
+      "CPU_type": "Apple Silicon",
+      "image": "https://source.unsplash.com/random/200x200/?computer"
+    },
+    {
+      "id": 5,
+      "brand": "Asus",
+      "model": "Asus ROG",
+      "price": 160.25,
+      "CPU_type": "Intel",
+      "image": "https://source.unsplash.com/random/200x200/?computer"
+    },
+    {
+      "id": 6,
+      "brand": "Acer",
+      "model": "Acer Predator",
+      "price": 140.75,
+      "CPU_type": "AMD",
+      "image": "https://source.unsplash.com/random/200x200/?computer"
+    },
+    {
+      "id": 7,
+      "brand": "Microsoft",
+      "model": "Surface Laptop",
+      "price": 170.5,
+      "CPU_type": "Intel",
+      "image": "https://source.unsplash.com/random/200x200/?computer"
+    },
+    {
+      "id": 8,
+      "brand": "Sony",
+      "model": "VAIO",
+      "price": 110,
+      "CPU_type": "Intel",
+      "image": "https://source.unsplash.com/random/200x200/?computer"
+    },
+    {
+      "id": 9,
+      "brand": "Toshiba",
+      "model": "Toshiba Satellite",
+      "price": 130.25,
+      "CPU_type": "AMD",
+      "image": "https://source.unsplash.com/random/200x200/?computer"
+    },
+    {
+      "id": 10,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy Book",
+      "price": 190,
+      "CPU_type": "Intel",
+      "image": "https://source.unsplash.com/random/200x200/?computer"
+    },
+    {
+      "brand": "Tinny",
+      "model": "Punsan",
+      "price": "99999",
+      "CPU_type": "IamHere",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 11
+    }
+  ]
+}
