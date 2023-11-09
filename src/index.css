@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
+* {
+  color: #0a122a;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+a {
+  margin: 0.25rem;
+}
+
+thead tr td {
+  text-align: center;
+}
+
+.divbtn {
+  margin-bottom: 0.5rem;
+}
+
+.card {
+  padding: 0.5rem;
+}
+
+tbody .actions {
+  text-align: center;
+}

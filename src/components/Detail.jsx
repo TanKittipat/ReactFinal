@@ -34,7 +34,7 @@ const Detail = () => {
                   <h3>
                     {pcData.brand} ({pcData.id})
                   </h3>
-                  <h4>Details : </h4>
+                  <h5>Details : </h5>
                   <h5>Model : {pcData.model}</h5>
                   <h5>Price : {pcData.price}</h5>
                   <h5>CPU : {pcData.CPU_type}</h5>

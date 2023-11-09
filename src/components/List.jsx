@@ -50,7 +50,7 @@ const List = () => {
               Add New (+)
             </Link>
           </div>
-          <table className="table table-bordered table-dark table-striped">
+          <table className="table table-bordered border-Light table-striped table-light">
             <thead className="bg-dark text-white">
               <tr>
                 <td>Id</td>
@@ -70,7 +70,7 @@ const List = () => {
                     <td>{item.price}</td>
                     <td className="actions">
                       <a
-                        className="btn btn-success"
+                        className="btn btn-outline-success"
                         onClick={() => {
                           loadEdit(item.id);
                         }}
@@ -78,7 +78,7 @@ const List = () => {
                         Edit
                       </a>
                       <a
-                        className="btn btn-danger"
+                        className="btn btn-outline-danger"
                         onClick={() => {
                           removePc(item.id);
                         }}
@@ -86,7 +86,7 @@ const List = () => {
                         Delete
                       </a>
                       <a
-                        className="btn btn-primary"
+                        className="btn btn-outline-info"
                         onClick={() => {
                           loadDetail(item.id);
                         }}

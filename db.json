@@ -79,14 +79,6 @@
       "price": 190,
       "CPU_type": "Intel",
       "image": "https://source.unsplash.com/random/200x200/?computer"
-    },
-    {
-      "brand": "Tinny",
-      "model": "Punsan",
-      "price": "99999",
-      "CPU_type": "IamHere",
-      "image": "https://source.unsplash.com/random/200x200/?computer",
-      "id": 11
     }
   ]
 }
